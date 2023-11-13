@@ -1,0 +1,10 @@
+C:\Users\lulub\Desktop\c#\Cadastro\bin\Debug\Cadastro.exe.config
+C:\Users\lulub\Desktop\c#\Cadastro\bin\Debug\Cadastro.exe
+C:\Users\lulub\Desktop\c#\Cadastro\bin\Debug\Cadastro.pdb
+C:\Users\lulub\Desktop\c#\Cadastro\obj\Debug\Cadastro.csproj.AssemblyReference.cache
+C:\Users\lulub\Desktop\c#\Cadastro\obj\Debug\Cadastro.Form1.resources
+C:\Users\lulub\Desktop\c#\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+C:\Users\lulub\Desktop\c#\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+C:\Users\lulub\Desktop\c#\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\lulub\Desktop\c#\Cadastro\obj\Debug\Cadastro.exe
+C:\Users\lulub\Desktop\c#\Cadastro\obj\Debug\Cadastro.pdb
